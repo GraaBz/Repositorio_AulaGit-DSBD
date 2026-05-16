@@ -2,6 +2,8 @@
 
 #parte de vetores
 
+#edição para a aula de hoje de infraestrutura computacional 15/05
+
 vetor1 <- sample(1:100, size = 10)
 vetor1
 
